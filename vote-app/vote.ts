@@ -11,4 +11,5 @@ function vote(voter: Voter): string {
 }
 
 console.log(vote("찬성"));
+console.log(vote("반대"));
 console.log(vote(1024));
